@@ -1,9 +1,5 @@
 # 🎯 RAKSHAK: Micro-Doppler Signature Based Aerial Target Classification
 
-[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Python](https://img.shields.io/badge/python-v3.8%2B-blue)]()
-[![TensorFlow](https://img.shields.io/badge/TensorFlow-2.x-orange)]()
-
 ## 🔍 About The Project
 
 RAKSHAK is an advanced air defense system that leverages cutting-edge micro-Doppler radar technology combined with deep learning for real-time aerial target classification. By analyzing the unique frequency modulations caused by mechanical vibrations or rotations of target structures, RAKSHAK can differentiate between various aerial objects with remarkable precision.
